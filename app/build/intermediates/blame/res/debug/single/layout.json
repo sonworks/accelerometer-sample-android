@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sonworks/Documents/SensorSample/app/build/intermediates/res/merged/debug/layout/accelsensor.xml",
+        "source": "/Users/sonworks/Documents/SensorSample/app/src/main/res/layout/accelsensor.xml"
+    },
+    {
+        "merged": "/Users/sonworks/Documents/SensorSample/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/sonworks/Documents/SensorSample/app/src/main/res/layout/activity_main.xml"
+    }
+]

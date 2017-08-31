@@ -1,0 +1,7 @@
+#Thu Aug 31 17:53:28 JST 2017
+base.0=/Users/sonworks/Documents/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e652f12db6b8e872ea8fb40d13b91d933fc9b7f1
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/sonworks/Documents/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77bf72e41a95f1b1546d55967e2055fd78df1b99/classes.dex
+base.1=/Users/sonworks/Documents/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_77bf72e41a95f1b1546d55967e2055fd78df1b99
+file.0=/Users/sonworks/Documents/SensorSample/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e652f12db6b8e872ea8fb40d13b91d933fc9b7f1/classes.dex
